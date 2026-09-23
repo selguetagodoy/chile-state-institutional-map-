@@ -1,5 +1,7 @@
 # Chile State Institutional Map
 
+**Latest release:** [v0.1.0](https://github.com/selguetagodoy/chile-state-institutional-map-/releases/tag/v0.1.0) · Zenodo integration enabled
+
 **Open institutional map of the Chilean State for public affairs, public policy, regulatory analysis and stakeholder mapping.**
 
 Independent public-affairs dataset by [Sebastián Elgueta Godoy](https://selguetagodoy.github.io/). Related research: [Stakeholder Routes Chile](https://github.com/selguetagodoy/stakeholder_routes_Chile) · [Latin America Digital Infrastructure](https://github.com/selguetagodoy/latin-america-digital-infrastructure).
