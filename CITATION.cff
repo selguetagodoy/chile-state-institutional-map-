@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the repository and the original sources documented in the source register."
+title: "Chile State Institutional Map"
+type: dataset
+version: "0.1.0"
+authors:
+  - family-names: "Elgueta Godoy"
+    given-names: "Sebastián"
+repository-code: "https://github.com/selguetagodoy/chile-state-institutional-map-"
+url: "https://github.com/selguetagodoy/chile-state-institutional-map-"
+date-released: 2026-09-19
+abstract: >-
+  Open institutional map of the Chilean State for public affairs, public policy,
+  regulatory analysis and stakeholder mapping. The dataset separates stable
+  institutions from volatile officeholders and documents provenance, coverage
+  and uncertainty across central, regional and local public institutions.
+keywords:
+  - Chile
+  - public affairs
+  - public policy
+  - stakeholder mapping
+  - government
+  - regulation
+  - institutional analysis
+  - open data
