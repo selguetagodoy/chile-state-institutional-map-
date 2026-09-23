@@ -3,12 +3,13 @@ message: "If you use this dataset, please cite the repository and the original s
 title: "Chile State Institutional Map"
 type: dataset
 version: "0.1.0"
+doi: "10.5281/zenodo.22921221"
 authors:
   - family-names: "Elgueta Godoy"
     given-names: "Sebastián"
 repository-code: "https://github.com/selguetagodoy/chile-state-institutional-map-"
 url: "https://github.com/selguetagodoy/chile-state-institutional-map-"
-date-released: 2026-09-19
+date-released: 2026-09-23
 abstract: >-
   Open institutional map of the Chilean State for public affairs, public policy,
   regulatory analysis and stakeholder mapping. The dataset separates stable
