@@ -2,7 +2,7 @@
 
 **Open institutional map of the Chilean State for public affairs, public policy, regulatory analysis and stakeholder mapping.**
 
-Independent public-affairs dataset by Sebastián Elgueta Godoy. Related research: [Stakeholder Routes Chile](https://github.com/selguetagodoy/stakeholder_routes_Chile) · [Latin America Digital Infrastructure](https://github.com/selguetagodoy/latin-america-digital-infrastructure).
+Independent public-affairs dataset by [Sebastián Elgueta Godoy](https://selguetagodoy.github.io/). Related research: [Stakeholder Routes Chile](https://github.com/selguetagodoy/stakeholder_routes_Chile) · [Latin America Digital Infrastructure](https://github.com/selguetagodoy/latin-america-digital-infrastructure).
 
 ## What this release contains
 
@@ -78,6 +78,8 @@ The model is designed to support:
 
 ## Author
 
-**Sebastián Elgueta Godoy** — Sociologist · Public Affairs · Public Policy · Digital Infrastructure · Latin America.
+**[Sebastián Elgueta Godoy](https://selguetagodoy.github.io/)** — Sociologist · Public Affairs · Public Policy · Digital Infrastructure · Latin America.
+
+[Professional profile](https://selguetagodoy.github.io/bio.html) · [Research](https://selguetagodoy.github.io/investigacion.html) · [GitHub profile](https://github.com/selguetagodoy)
 
 The dataset prioritizes primary and official sources and keeps provenance and uncertainty explicit.
