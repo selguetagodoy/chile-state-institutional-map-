@@ -99,6 +99,14 @@ Validation checks structural integrity, while a separate weekly workflow checks 
 
 The dataset prioritizes primary and official sources and keeps provenance and uncertainty explicit.
 
+
+## Citation and metadata
+
+- [CITATION.cff](CITATION.cff) — GitHub/academic citation metadata
+- [CITATION.bib](CITATION.bib) — BibTeX citation
+- [codemeta.json](codemeta.json) — machine-readable research metadata
+- [NOTICE.md](NOTICE.md) — authorship and third-party reuse boundaries
+
 ## Related research
 
 - [Stakeholder Routes Chile](https://selguetagodoy.github.io/dataset-stakeholder-routes-chile.html) — actor-stage decision routes built on the institutional spine.
