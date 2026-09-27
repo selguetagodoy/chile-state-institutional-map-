@@ -21,67 +21,89 @@
       "name": "institutional-map",
       "path": "data/institutional_map.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 366655,
+      "git_blob_sha": "b2b93ce6020c0e224e2c9f2c9a786b36aa9e8139"
     },
     {
       "name": "institutional-relations",
       "path": "data/institutional_relations.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 41024,
+      "git_blob_sha": "21f3c3ed3a2919580813ebb9baa5c3b14bce58bb"
     },
     {
       "name": "ministries",
       "path": "data/ministries.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 3279,
+      "git_blob_sha": "9bf366c02cb77396a08dbd5968a4f9a9a6e95d68"
     },
     {
       "name": "municipalities",
       "path": "data/municipalities.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 80358,
+      "git_blob_sha": "54795622b3a7b8404dbc76858f535814c55f8207"
     },
     {
       "name": "legislative-commissions",
       "path": "data/legislative_commissions.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 20339,
+      "git_blob_sha": "a7adb788e1ab9e02d522e69e00a62caaa02817e4"
     },
     {
       "name": "state-universities",
       "path": "data/state_universities.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 2456,
+      "git_blob_sha": "af57adf2904127f6568033b2c6a69cc59cb7dbcf"
     },
     {
       "name": "state-cfts",
       "path": "data/state_cfts.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 2441,
+      "git_blob_sha": "ee35af1a71cb401a6691c2d6280a1bc83be23efa"
     },
     {
       "name": "public-enterprises-dipres",
       "path": "data/public_enterprises_dipres.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 7844,
+      "git_blob_sha": "66a0d0a8962312aceb23fd1892e8b905a00cc5f0"
     },
     {
       "name": "sleps",
       "path": "data/sleps.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 27570,
+      "git_blob_sha": "b05f7b10f13ead524b2ae4b566d7af0cc24a5a2f"
     },
     {
       "name": "coverage-audit",
       "path": "data/coverage_audit.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 2873,
+      "git_blob_sha": "96b9f23d89aac0bed2ca4e8527b8ed4fc5eecd48"
     },
     {
       "name": "sources",
       "path": "sources.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 3475,
+      "git_blob_sha": "652a93665ae24d59eb48e8526991547d72eae158"
     }
   ]
 }
