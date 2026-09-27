@@ -5,6 +5,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921220.svg)](https://doi.org/10.5281/zenodo.22921220)
 [![Validate](https://github.com/selguetagodoy/chile-state-institutional-map-/actions/workflows/validate.yml/badge.svg)](https://github.com/selguetagodoy/chile-state-institutional-map-/actions/workflows/validate.yml) [![Source URL Liveness](https://github.com/selguetagodoy/chile-state-institutional-map-/actions/workflows/source-urls.yml/badge.svg)](https://github.com/selguetagodoy/chile-state-institutional-map-/actions/workflows/source-urls.yml)
 
+**Public dataset landing page:** https://selguetagodoy.github.io/dataset-chile-state-institutional-map.html
+
 **Open institutional map of the Chilean State for public affairs, public policy, regulatory analysis and stakeholder mapping.**
 
 Independent public-affairs dataset by [Sebastián Elgueta Godoy](https://selguetagodoy.github.io/). Related research: [Stakeholder Routes Chile](https://github.com/selguetagodoy/stakeholder_routes_Chile) · [Latin America Digital Infrastructure](https://github.com/selguetagodoy/latin-america-digital-infrastructure).
