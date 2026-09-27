@@ -106,6 +106,7 @@ The dataset prioritizes primary and official sources and keeps provenance and un
 - [CITATION.bib](CITATION.bib) — BibTeX citation
 - [codemeta.json](codemeta.json) — machine-readable research metadata
 - [NOTICE.md](NOTICE.md) — authorship and third-party reuse boundaries
+- [CHANGELOG.md](CHANGELOG.md) — version history and documented changes
 
 ## Related research
 
