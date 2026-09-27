@@ -98,3 +98,10 @@ Validation checks structural integrity, while a separate weekly workflow checks 
 [Professional profile](https://selguetagodoy.github.io/bio.html) · [Research](https://selguetagodoy.github.io/investigacion.html) · [GitHub profile](https://github.com/selguetagodoy)
 
 The dataset prioritizes primary and official sources and keeps provenance and uncertainty explicit.
+
+## Related research
+
+- [Stakeholder Routes Chile](https://selguetagodoy.github.io/dataset-stakeholder-routes-chile.html) — actor-stage decision routes built on the institutional spine.
+- [Latin America Digital Infrastructure](https://selguetagodoy.github.io/dataset-latin-america-digital-infrastructure.html) — infrastructure, energy and institutional comparison across Latin America.
+- [Public affairs and regulatory analysis](https://selguetagodoy.github.io/asuntos-publicos.html) — thematic public research hub.
+
