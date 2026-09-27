@@ -1,0 +1,233 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.2/context",
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "about": {
+        "@id": "./"
+      },
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.2"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "Chile State Institutional Map",
+      "description": "Machine-readable institutional map of the Chilean State for public affairs, public policy, regulatory analysis and stakeholder mapping.",
+      "datePublished": "2026-09-23",
+      "version": "0.1.0",
+      "identifier": "https://doi.org/10.5281/zenodo.22921221",
+      "url": "https://selguetagodoy.github.io/dataset-chile-state-institutional-map.html",
+      "creator": {
+        "@id": "https://selguetagodoy.github.io/#person"
+      },
+      "sameAs": [
+        "https://selguetagodoy.github.io/dataset-chile-state-institutional-map.html",
+        "https://github.com/selguetagodoy/chile-state-institutional-map-",
+        "https://doi.org/10.5281/zenodo.22921221",
+        "https://doi.org/10.5281/zenodo.22921220"
+      ],
+      "hasPart": [
+        {
+          "@id": "README.md"
+        },
+        {
+          "@id": "SOURCE_OF_TRUTH.md"
+        },
+        {
+          "@id": "CITATION.cff"
+        },
+        {
+          "@id": "CITATION.bib"
+        },
+        {
+          "@id": "codemeta.json"
+        },
+        {
+          "@id": "datapackage.json"
+        },
+        {
+          "@id": "NOTICE.md"
+        },
+        {
+          "@id": "CHANGELOG.md"
+        },
+        {
+          "@id": "CONTRIBUTING.md"
+        },
+        {
+          "@id": "data/institutional_map.csv"
+        },
+        {
+          "@id": "data/institutional_relations.csv"
+        },
+        {
+          "@id": "data/ministries.csv"
+        },
+        {
+          "@id": "data/municipalities.csv"
+        },
+        {
+          "@id": "data/legislative_commissions.csv"
+        },
+        {
+          "@id": "data/state_universities.csv"
+        },
+        {
+          "@id": "data/state_cfts.csv"
+        },
+        {
+          "@id": "data/public_enterprises_dipres.csv"
+        },
+        {
+          "@id": "data/sleps.csv"
+        },
+        {
+          "@id": "data/coverage_audit.csv"
+        },
+        {
+          "@id": "sources.csv"
+        }
+      ]
+    },
+    {
+      "@id": "https://selguetagodoy.github.io/#person",
+      "@type": "Person",
+      "name": "Sebastián Elgueta Godoy",
+      "url": "https://selguetagodoy.github.io/"
+    },
+    {
+      "@id": "README.md",
+      "@type": "File",
+      "name": "README",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "SOURCE_OF_TRUTH.md",
+      "@type": "File",
+      "name": "Source of Truth",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "CITATION.cff",
+      "@type": "File",
+      "name": "Citation metadata (CFF)",
+      "encodingFormat": "text/yaml"
+    },
+    {
+      "@id": "CITATION.bib",
+      "@type": "File",
+      "name": "BibTeX citation",
+      "encodingFormat": "application/x-bibtex"
+    },
+    {
+      "@id": "codemeta.json",
+      "@type": "File",
+      "name": "CodeMeta metadata",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@id": "datapackage.json",
+      "@type": "File",
+      "name": "Frictionless Data Package",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@id": "NOTICE.md",
+      "@type": "File",
+      "name": "Authorship and reuse notice",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "CHANGELOG.md",
+      "@type": "File",
+      "name": "Version history",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "CONTRIBUTING.md",
+      "@type": "File",
+      "name": "Contribution policy",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "data/institutional_map.csv",
+      "@type": "File",
+      "name": "institutional-map",
+      "encodingFormat": "text/csv",
+      "contentSize": "366655 B"
+    },
+    {
+      "@id": "data/institutional_relations.csv",
+      "@type": "File",
+      "name": "institutional-relations",
+      "encodingFormat": "text/csv",
+      "contentSize": "41024 B"
+    },
+    {
+      "@id": "data/ministries.csv",
+      "@type": "File",
+      "name": "ministries",
+      "encodingFormat": "text/csv",
+      "contentSize": "3279 B"
+    },
+    {
+      "@id": "data/municipalities.csv",
+      "@type": "File",
+      "name": "municipalities",
+      "encodingFormat": "text/csv",
+      "contentSize": "80358 B"
+    },
+    {
+      "@id": "data/legislative_commissions.csv",
+      "@type": "File",
+      "name": "legislative-commissions",
+      "encodingFormat": "text/csv",
+      "contentSize": "20339 B"
+    },
+    {
+      "@id": "data/state_universities.csv",
+      "@type": "File",
+      "name": "state-universities",
+      "encodingFormat": "text/csv",
+      "contentSize": "2456 B"
+    },
+    {
+      "@id": "data/state_cfts.csv",
+      "@type": "File",
+      "name": "state-cfts",
+      "encodingFormat": "text/csv",
+      "contentSize": "2441 B"
+    },
+    {
+      "@id": "data/public_enterprises_dipres.csv",
+      "@type": "File",
+      "name": "public-enterprises-dipres",
+      "encodingFormat": "text/csv",
+      "contentSize": "7844 B"
+    },
+    {
+      "@id": "data/sleps.csv",
+      "@type": "File",
+      "name": "sleps",
+      "encodingFormat": "text/csv",
+      "contentSize": "27570 B"
+    },
+    {
+      "@id": "data/coverage_audit.csv",
+      "@type": "File",
+      "name": "coverage-audit",
+      "encodingFormat": "text/csv",
+      "contentSize": "2873 B"
+    },
+    {
+      "@id": "sources.csv",
+      "@type": "File",
+      "name": "sources",
+      "encodingFormat": "text/csv",
+      "contentSize": "3475 B"
+    }
+  ]
+}
