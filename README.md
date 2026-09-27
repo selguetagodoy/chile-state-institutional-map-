@@ -3,6 +3,7 @@
 **Latest release:** [v0.1.0](https://github.com/selguetagodoy/chile-state-institutional-map-/releases/tag/v0.1.0) · [Concept DOI: 10.5281/zenodo.22921220](https://doi.org/10.5281/zenodo.22921220) · [Version DOI: 10.5281/zenodo.22921221](https://doi.org/10.5281/zenodo.22921221)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921220.svg)](https://doi.org/10.5281/zenodo.22921220)
+[![Validate](https://github.com/selguetagodoy/chile-state-institutional-map-/actions/workflows/validate.yml/badge.svg)](https://github.com/selguetagodoy/chile-state-institutional-map-/actions/workflows/validate.yml) [![Source URL Liveness](https://github.com/selguetagodoy/chile-state-institutional-map-/actions/workflows/source-urls.yml/badge.svg)](https://github.com/selguetagodoy/chile-state-institutional-map-/actions/workflows/source-urls.yml)
 
 **Open institutional map of the Chilean State for public affairs, public policy, regulatory analysis and stakeholder mapping.**
 
@@ -79,6 +80,12 @@ The model is designed to support:
 ## Verification date
 
 **2026-09-19**
+
+## Provenance and QA
+
+[SOURCE_OF_TRUTH.md](SOURCE_OF_TRUTH.md) defines the evidence hierarchy between primary official sources, literal directory snapshots, the normalized institutional master, coverage audits and presentation layers. The existing [sources.csv](sources.csv) remains the canonical source ledger.
+
+Validation checks structural integrity, while a separate weekly workflow checks the availability of registered source URLs. Literal official snapshots are preserved rather than silently rewritten when institutional naming changes.
 
 ## Author
 
