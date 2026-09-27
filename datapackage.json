@@ -1,0 +1,87 @@
+{
+  "profile": "data-package",
+  "name": "chile-state-institutional-map",
+  "title": "Chile State Institutional Map",
+  "description": "Machine-readable institutional map of the Chilean State for public affairs, public policy and regulatory analysis.",
+  "version": "0.1.0",
+  "homepage": "https://selguetagodoy.github.io/dataset-chile-state-institutional-map.html",
+  "contributors": [
+    {
+      "title": "Sebastián Elgueta Godoy",
+      "role": "author",
+      "path": "https://selguetagodoy.github.io/"
+    }
+  ],
+  "citation": {
+    "concept_doi": "https://doi.org/10.5281/zenodo.22921220",
+    "version_doi": "https://doi.org/10.5281/zenodo.22921221"
+  },
+  "resources": [
+    {
+      "name": "institutional-map",
+      "path": "data/institutional_map.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "institutional-relations",
+      "path": "data/institutional_relations.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "ministries",
+      "path": "data/ministries.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "municipalities",
+      "path": "data/municipalities.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "legislative-commissions",
+      "path": "data/legislative_commissions.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "state-universities",
+      "path": "data/state_universities.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "state-cfts",
+      "path": "data/state_cfts.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "public-enterprises-dipres",
+      "path": "data/public_enterprises_dipres.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "sleps",
+      "path": "data/sleps.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "coverage-audit",
+      "path": "data/coverage_audit.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "sources",
+      "path": "sources.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    }
+  ]
+}
